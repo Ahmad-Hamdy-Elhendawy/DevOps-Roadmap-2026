@@ -10,7 +10,7 @@ This is the order I suggest for the resources below. Do the stages top to bottom
 
 ## Stage 1: Foundations
 (Make AI teach you how to push your scripts onto github, we will learn it properly in a while, JUST RAWDOG IT FOR NOW, IT IS REALLY SIMPLE)
-1. **Linux Admin 1**: [Maharatech course](https://maharatech.gov.eg/course/view.php?id=2115)
+1. **Linux Admin 1**: [Maharatech course](https://maharatech.gov.eg/course/view.php?id=2115) (Arabic, if there is a better/equivalent English resource, please recommend; otherwise, the course is fine)
 2. **Bash**: [YouTube playlist](https://www.youtube.com/playlist?list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w)
 3. **Git and GitHub**: [DataCamp GitHub Foundations track](https://www.datacamp.com/tracks/github-foundations?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=trackdetailpage&utm_source=copy)
 4. **Networking**: [Crash course](https://www.youtube.com/watch?v=Lw8QFsYCexc&t=35s)
