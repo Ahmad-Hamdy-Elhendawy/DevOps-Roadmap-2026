@@ -6,7 +6,7 @@ This is the order I suggest for the resources below. Do the stages top to bottom
 
 ## Practice (throughout)
 
-- [KodeKloud labs](https://kodekloud.com/studio/labs): free labs only for now. Do a lab after each stage.
+- [KodeKloud labs](https://kodekloud.com/studio/labs): free labs only for now. Do a lab in parallel at each stage.
 
 ## Stage 1: Foundations
 
